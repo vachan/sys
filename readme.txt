@@ -12,7 +12,7 @@ Show your Support helps you to show your Support for an Event/WordCamp by adding
 
 Show your Support Plugin is to show your Support for an Event/WordCamp by updating your profile picture on Facebook and Twitter adding a overlay image.
 
-Major features in Akismet include:
+Major features in Show your Support include:
 
 * Change your profile picture on Facebook and Twitter
 * Plugin uploads profile picture to your Facebook/Twitter timeline with a support message.
